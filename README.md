@@ -64,10 +64,10 @@ Personalized Cancer Diagnosis using Machine Learning
 ### Note : The most important part was to understand the model interpretability and metric chose and avoiding it to become a black box along with keeping a tab on data leakage for response coding part.
             
 ## Results 
-<img src = https://github.com/yatscool007/Personalized-Cancer-Diagnosis/blob/master/Results/Capture1.PNG>
-<img src = https://github.com/yatscool007/Personalized-Cancer-Diagnosis/blob/master/Results/Capture2.PNG>
-<img src = https://github.com/yatscool007/Personalized-Cancer-Diagnosis/blob/master/Results/Capture3.PNG>
-<img src = https://github.com/yatscool007/Personalized-Cancer-Diagnosis/blob/master/Results/Capture4.PNG>
-<img src = https://github.com/yatscool007/Personalized-Cancer-Diagnosis/blob/master/Results/Capture5.PNG>
+<img src = https://github.com/apoorva-menon/Cancer-Diagnosis/blob/master/Results/Capture1.PNG>
+<img src = https://github.com/apoorva-menon/Cancer-Diagnosis/blob/master/Results/Capture2.PNG>
+<img src = https://github.com/apoorva-menon/Cancer-Diagnosis/blob/master/Results/Capture3.PNG>
+<img src = https://github.com/apoorva-menon/Cancer-Diagnosis/blob/master/Results/Capture4.PNG>
+<img src = https://github.com/apoorva-menon/Cancer-Diagnosis/blob/master/Results/Capture5.PNG>
 
 ### We find that though Logistic Regression with class balanced gives the least log loss on test data - 0.933 and cross validation loss - 0.976 and percentage of missclassified points are also aroud 30.5 percent which is reasonably good which we achieved using TFIDF vectorization with top 10000 features and ngram_range = (1,4).

@@ -2,7 +2,7 @@
 Personalized Cancer Diagnosis using Machine Learning
 
 <h1>1. Business Problem</h1>
-<p>Main objective of this project is to distinguishing the mutations that contribute to tumor growth (drivers) from the neutral mutations. Currently this interpretation of genetic mutations is being done manually. This is a very time-consuming task where a clinical pathologist has to manually review and classify every single genetic mutation based on evidence from text-based clinical literature. so designed a machine learning model that classifies given genetic variations/mutations based on evidence from text-based clinical literature. Got data from Kaggle which was updated by Memorial Sloan Kettering Cancer Centre. Data having some Gene, gene variations and some medical literature text related to gene variations.</p>
+<p>Main objective of this project is to distinguish the mutations that contribute to tumor growth (drivers) from the neutral mutations. Currently this interpretation of genetic mutations is being done manually. This is a very time-consuming task where a clinical pathologist has to manually review and classify every single genetic mutation based on evidence from text-based clinical literature. so designed a machine learning model that classifies given genetic variations/mutations based on evidence from text-based clinical literature. Data was obtained from Kaggle which was updated by Memorial Sloan Kettering Cancer Centre. Data having some Gene, gene variations and some medical literature text related to gene variations.</p>
 
 <h6> Problem statement : </h6>
 <p> Classify the given genetic variations/mutations based on evidence from text-based clinical literature. </p>
